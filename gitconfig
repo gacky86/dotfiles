@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = r.inagaki9686@gmail.com
+	name = Ryuya Inagaki
